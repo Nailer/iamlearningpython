@@ -15,6 +15,7 @@ matrix = [["bee", "love", "user"], [1, 2, 4], [5, 6, 7]]
 
 call = [row[0] for row in matrix] # this is known as list-comprehnsion
 
+a = matrix[1]
 print(call)
 
 
